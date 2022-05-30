@@ -1,0 +1,2 @@
+
+INSERT INTO students(FIRST_NAME,LAST_NAME, BIRTH_DATE,GENDER) VALUES('Alejandro', 'Martinez', '2017-01-30' ,'M');
